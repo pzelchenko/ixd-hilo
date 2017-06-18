@@ -1,0 +1,10 @@
+sp.sh only
+sp.sh tries
+sp.sh 30
+sp.sh 40
+sp.sh 50
+sp.sh 60
+sp.sh 70
+sp.sh 80
+sp.sh 90
+sp.sh 13
